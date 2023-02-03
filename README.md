@@ -18,3 +18,13 @@ git add submission
 git commit -m "add team document"
 git push
 ```
+
+Step 2: Team Members & Github Usernames
+Taya Carlson - Temmarin
+Hayden Schlichting - Haydebug
+Sean Carter - Collisteru
+Anar Enkhzol - Aukovien
+
+Step 4: Team Number
+Recitation-011-Team-1
+
